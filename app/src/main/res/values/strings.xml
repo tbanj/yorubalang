@@ -1,0 +1,48 @@
+<resources>s
+    <string name="app_name">yorubalang</string>
+    <string name="category_number_text">Numbers</string>
+    <string name="category_family_members_text">Family Members</string>
+    <string name="category_colors_text">Colors</string>
+    <string name="category_phrases_text">Phrases</string>
+    <string name="toast_category_remarks">List of</string>
+    <string name="toast_category_example">Examples</string>
+
+
+    <string name="toast_voice_remarks">I am done</string>
+
+    <string name="numbers_text">Numbers(Ònkà)</string>
+
+    <string name="family_members_text">Family Members(Ará Ẹbí)</string>
+    <string name="colors_text">Colors(Àwo)</string>
+    <string name="phrases_text">Phrases(Gbólóhùn)</string>
+
+    <string name="intent_name_numbers">Numbers(Ònkà̀)</string>
+    <string name="intent_name_family_members">Family members(Ará Ẹbí)</string>
+    <string name="intent_name_colors">Colors(Àwo)</string>
+    <string name="intent_name_phrases">Phrases(Gbólóhùn)</string>
+    <string name="intent_name_about">About</string>
+
+
+    <string name="numbers_toast_comment">Open the List of Numbers</string>
+
+
+    <!-- AboutActivity-->
+    <string name="version_number">Version</string>
+    <string name="about_author">Author: </string>
+    <string name="about_author_names" translatable="false">Alabi Temitope</string>
+    <string name="about_affiliation">Triple R-Weelz Automobile ltd&#8482;</string>
+    <string name="more_info">More information :</string>
+    <string name="privacy_friendly">This is an app with contents to help anyone who will
+        like to learn basic words and sentences in Yoruba Language. </string>
+    <string name="github" translatable="false"><a href="https://github.com/tbanj/yorubalang">\nProject source code in Github</a></string>
+    <string name="linkein"><a href="https://www.linkedin.com/in/alabi-temitope-aa036b103/">\nAbout the author (Linkedin)</a></string>
+    <string name="api_url"><a href="https://www.abibitumikasa.com/forums/showthread.php/41685-Basic-colors-in-Yoruba">\nReference</a></string>
+
+
+    <string name="contributor_info"> Voice By Nimotalahi Agbeke Alabi \n
+    App Tester By Sadiq Alabi</string>
+
+    <string name="contri_head">Contributors : " " </string>
+
+
+</resources>
