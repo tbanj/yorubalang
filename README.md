@@ -29,10 +29,10 @@ This project have 7  major Layouts
 
 # Screenshots
 <img src="scrs/home_activity.png" alt="Menu" width="288" height="512">&nbsp;
-<img src="scrs/number_activity.png" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/family_activity.png" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/color_activity.png" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="phrases_activity.png" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/app_icon.png" alt="Exchange Rate" width="288" height="512">
+<img src="scrs/number_activity.png" alt="NumberActivity" width="288" height="512">&nbsp;
+<img src="scrs/family_activity.png" alt="FamilyActivity" width="288" height="512">&nbsp;
+<img src="scrs/color_activity.png" alt="Coloractivity" width="288" height="512">&nbsp;
+<img src="phrases_activity.png" alt="Phrases_Activity" width="288" height="512">&nbsp;
+<img src="scrs/app_icon.png" alt="AppIcon" width="288" height="512">
 
 # Author : Alabi Temitope [<img src="scrs/linkedin-icon.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
