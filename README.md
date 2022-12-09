@@ -2,7 +2,7 @@
 
 This app provides English to Yoruba translation for basic & common Yoruba words and phrases use daily.
 
-<a href="http://example.com/" rel="noopener" target="_blank">Hello, world!</a>
+[google_link](www.google.com){:target="_blank"} 
 # Classes
 This project have 5 java classes
 1. AboutActivity
